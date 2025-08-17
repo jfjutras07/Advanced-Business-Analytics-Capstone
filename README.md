@@ -4,16 +4,6 @@ This capstone was completed as part of my academic journey in business analytics
 
 Although the original instructions suggested completing the project in Excel, I decided to implement it using Python due to technical constraints and to strengthen my skills in programming and data science.
 
-The project includes:
-
-  Data cleaning and preparation
-
-  Exploratory data analysis
-
-  Predictive modeling
-
-  Actionable business recommendations
-
-Note
+The project includes: data cleaning and preparation, exploratory data analysis, predictive modeling, and actionable business recommendations.
 
 This repository is preserved to document my progression in analytics. Since completing this capstone, I have been developing more advanced and diverse projects on Kaggle and GitHub, focusing on machine learning, NLP, computer vision, time series forecasting, and MLOps.
